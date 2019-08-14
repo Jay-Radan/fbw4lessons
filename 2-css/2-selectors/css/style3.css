@@ -1,0 +1,26 @@
+/* /* .someClass>span{
+color: red
+} */
+/* .someClass span span{
+    color: black
+}
+
+.someClass span{
+    color: red
+}
+ */ 
+
+/* .someClass span span{
+    color: red
+}
+#div1 span span{
+    color: blue
+} */
+
+/* .someClass:nth-child(even){
+    color: red
+} */
+
+.someClass :nth-child(2){
+    color: red
+}

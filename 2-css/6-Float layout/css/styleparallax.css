@@ -1,0 +1,18 @@
+.parallax{
+   background-image: url(/images/hero.jpg);
+   background-repeat: no-repeat;
+   font-family: 'Times New Roman', Times, serif;
+   overflow-y: scroll;
+   scroll-behavior: smooth;
+   height: 500px;
+  
+
+}
+
+ /* this is for hidding scrollbar but still u can scroll it but it works just on google chrome  */
+.parallax::-webkit-scrollbar {
+display: none; }
+
+.parallax p{
+    font-size: 17px
+}

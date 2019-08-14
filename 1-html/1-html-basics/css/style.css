@@ -1,0 +1,22 @@
+h1{
+    color: red
+}
+html {
+    scroll-behavior: smooth;
+  }
+  a{text-decoration: none;
+justify-content: center}
+
+  a:hover{color:YELLOW;
+background-color: blue} /* When clicked (or clicked and held) the color will be blue */
+
+  a{
+      display: block;
+      border: 3px solid red;
+      width: 200px;
+      height: 50px;
+      justify-content: center;
+      margin-left: 36%;      
+      border-radius: 5px;
+  }
+  

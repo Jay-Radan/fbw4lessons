@@ -1,0 +1,15 @@
+a[target]{
+    color: red
+}
+/* t means the checkbox that are not checked would have red border */
+input[type=checkbox]:checked{
+    outline: 1px red solid
+}
+/* it means if its unchecked the div after is hidden and when its check it will show the div */
+.togglebox:not(:checked)+div{
+   display: none
+}
+/*  means one element after */
+.togglebox + div{
+    border: 2px solid red
+}

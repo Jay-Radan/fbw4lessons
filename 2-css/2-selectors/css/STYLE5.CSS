@@ -1,0 +1,17 @@
+td,th{
+    border: 1px red solid;
+    padding: 5px
+}
+
+table{
+    border-collapse: collapse;
+    background-color: gray
+}
+
+tr:nth-child(even){
+    background-color:pink
+}
+body{
+    font-style: italic
+}
+

@@ -1,0 +1,11 @@
+.someDiv{
+    width: 400px;
+    height: 400px;
+    /* border: 2px black solid */
+
+    /* these dow is excatly like the border above */
+border-width: 5px;
+border-color: red;
+border-style: solid
+    
+}
