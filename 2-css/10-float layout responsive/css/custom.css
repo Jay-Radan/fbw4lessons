@@ -1,0 +1,15 @@
+.panner{
+    padding: 15px
+}
+
+
+
+/* make it responsive */
+
+@media only screen and (max-width:600px){
+    [class*="col-" ]{
+       width: 100%
+        
+    }
+}
+
