@@ -1,0 +1,29 @@
+
+html{
+    scroll-behavior: smooth
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.father{
+    position: relative;
+    left: 100px;
+    top: 200px;
+    background-color: pink;
+    
+}
+.someClass{
+position: relative; 
+background-color: rgb(124, 179, 231);
+width: 100px;
+left: 50px;
+top: 10px;
+}
+
+.goTop{
+    position: fixed;
+    right: 5px;
+    bottom: 10px;
+}

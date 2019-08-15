@@ -1,0 +1,30 @@
+.someClass{
+
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    /* visibility: hidden; */
+    display: none;
+}
+
+
+
+.inlineDiv{
+
+    /* width: 200px;
+    height: 200px; */
+    margin: 5px;
+    background-color: purple;
+display: inline
+    
+}
+
+
+.inlineblockDiv{
+       width: 200px;
+    height: 200px;
+    margin: 5px;
+    background-color: purple;
+display: inline-block
+    
+}
